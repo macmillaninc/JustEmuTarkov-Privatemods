@@ -2,11 +2,11 @@
 Packing it AIO
 This mod pack contains
 
-EmuTarkov-AllItemsExamined
-AssAssln's Olympus
-MacrossMX's CleanNVG
-Micro's QOL
-Sorata's EquipRigsWithArmors
-StealtH's BetterRonin
+EmuTarkov-AllItemsExamined<br>
+AssAssln's Olympus<br>
+MacrossMX's CleanNVG<br>
+Micro's QOL<br>
+Sorata's EquipRigsWithArmors<br>
+StealtH's BetterRonin<br>
 
 and... MHI M16A4, MHI FIR47, and my little mods.
