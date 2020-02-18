@@ -1,0 +1,10 @@
+{
+	"_id": "apollosAdrenaline",
+	"_tpl": "apollosAdrenaline",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 50000
+	}
+}

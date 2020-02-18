@@ -1,0 +1,10 @@
+{
+	"_id": "herc12gaSaiga",
+	"_tpl": "herc12gaSaiga",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}
