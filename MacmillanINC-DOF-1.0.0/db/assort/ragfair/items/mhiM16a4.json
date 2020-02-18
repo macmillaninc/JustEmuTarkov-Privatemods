@@ -1,0 +1,10 @@
+{
+	"_id": "mhiM16a4",
+	"_tpl": "mhiM16a4",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

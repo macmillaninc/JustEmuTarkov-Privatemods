@@ -1,0 +1,10 @@
+{
+	"_id": "herculeasMag545",
+	"_tpl": "herculeasMag545",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

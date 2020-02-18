@@ -1,0 +1,10 @@
+{
+	"_id": "hercM1A",
+	"_tpl": "hercM1A",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}
