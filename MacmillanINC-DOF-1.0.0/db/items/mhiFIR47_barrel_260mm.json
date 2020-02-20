@@ -1,0 +1,152 @@
+{
+	"_id": "mhiFIR47_barrel_260mm",
+	"_name": "mhiFIR47_barrel_260mm",
+	"_parent": "555ef6e44bdc2de9068b457e",
+	"_type": "Item",
+	"_props": {
+		"Name": "260mm FIR47 Barrel",
+		"ShortName": "260mm FIR47 7.62x39",
+		"Description": "Made in Korea",
+		"Weight": 0.409,
+		"BackgroundColor": "blue",
+		"Width": 2,
+		"Height": 1,
+		"StackMaxSize": 1,
+		"Rarity": "Not_exist",
+		"SpawnChance": 40,
+		"CreditsPrice": 19118,
+		"ItemSound": "mod",
+		"Prefab": {
+			"path": "assets/content/items/mods/barrels/barrel_ar15_260mm.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": true,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 20,
+		"ExamineExperience": 6,
+		"HideEntrails": false,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 2,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": true,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [],
+		"Slots": [
+			{
+				"_name": "mod_muzzle",
+				"_id": "564afddf4bdc2d1b2b8b4592",
+				"_parent": "mhiFIR47_barrel_260mm",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5cff9e5ed7ad1a09407397d4",
+								"5b3a16655acfc40016387a2a",
+								"5c7e5f112e221600106f4ede",
+								"5c0fafb6d174af02a96260ba",
+								"5cf6937cd7f00c056c53fb39",
+								"544a38634bdc2d58388b4568",
+								"5c48a2a42e221602b66d1e07",
+								"56ea8180d2720bf2698b456a",
+								"5d02676dd7ad1a049e54f6dc",
+								"56ea6fafd2720b844b8b4593",
+								"5943ee5a86f77413872d25ec",
+								"5c7fb51d2e2216001219ce11",
+								"5c6d710d2e22165df16b81e7",
+								"5cc9b815d7f00c000e2579d6",
+								"5a7c147ce899ef00150bd8b8",
+								"5c7954d52e221600106f4cc7",
+								"59bffc1f86f77435b128b872",
+								"5a9fbb84a2750c00137fa685",
+								"59d64fc686f774171b243fe2",
+								"5a0d716f1526d8000d26b1e2",
+								"5c878ebb2e2216001219d48a",
+								"59e61eb386f77440d64f5daf",
+								"59e8a00d86f7742ad93b569c",
+								"5a9ea27ca2750c00137fa672",
+								"5c7951452e221644f31bfd5c",
+								"5a0abb6e1526d8000a025282",
+								"59bffc1f86f77435b128b872",
+								"593d489686f7745c6255d58a",
+								"5a0d63621526d8dba31fe3bf",
+								"5a9fbacda2750c00141e080f"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_gas_block",
+				"_id": "56ea8e15d2720bf2698b456b",
+				"_parent": "mhiFIR47_barrel_260mm",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5ae30e795acfc408fb139a0b",
+								"56eabcd4d2720b66698b4574",
+								"5d00ec68d7ad1a04a067e5be",
+								"56ea8d2fd2720b7c698b4570"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"Durability": 100,
+		"Accuracy": 0,
+		"Recoil": -2,
+		"Loudness": 0,
+		"EffectiveDistance": 0,
+		"Ergonomics": -6,
+		"Velocity": -16.31,
+		"RaidModdable": true,
+		"ToolModdable": true,
+		"BlocksFolding": false,
+		"BlocksCollapsible": false,
+		"IsAnimated": false,
+		"HasShoulderContact": false,
+		"SightingRange": 0,
+		"CenterOfImpact": 0.08,
+		"ShotgunDispersion": 1,
+		"IsSilencer": false
+	}
+}
