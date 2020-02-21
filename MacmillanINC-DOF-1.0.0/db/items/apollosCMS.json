@@ -60,7 +60,7 @@
 		"DiscardingBlock": false,
 		"medUseTime": 1,
 		"medEffectType": "duringUse",
-		"MaxHpResource": 100,
+		"MaxHpResource": 30,
 		"hpResourceRate": 0,
 		"StimulatorBuffs": "",
 		"effects_health": {

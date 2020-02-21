@@ -1,0 +1,12 @@
+{
+	"number": 0,
+	"time_min": 700,
+	"time_max": 900,
+	"slots_min": 0,
+	"slots_max": 3,
+	"BotSide": "Savage",
+	"BotPreset": "hard",
+	"SpawnPoints": "",
+	"WildSpawnType": "followerBully",
+	"isPlayers": false
+}

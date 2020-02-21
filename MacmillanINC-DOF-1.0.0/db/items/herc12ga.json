@@ -113,8 +113,8 @@
 		"CanFast": false,
 		"CanHit": false,
 		"CanAdmin": false,
-		"LoadUnloadModifier": -100,
-		"CheckTimeModifier": -100,
+		"LoadUnloadModifier": -30,
+		"CheckTimeModifier": -30,
 		"CheckOverride": 0,
 		"ReloadMagType": "InternalMagazine",
 		"VisibleAmmoRangesString": "1-3"

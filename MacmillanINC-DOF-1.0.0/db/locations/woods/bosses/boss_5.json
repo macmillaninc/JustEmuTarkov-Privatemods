@@ -1,0 +1,11 @@
+{
+	"BossName": "pmcBot",
+	"BossChance": 35,
+	"BossZone": "ZoneMiniHouse",
+	"BossPlayer": false,
+	"BossDifficult": "hard",
+	"BossEscortType": "pmcBot",
+	"BossEscortDifficult": "hard",
+	"BossEscortAmount": "1,1,2,2,0,1,2",
+	"Time": 30
+}

@@ -1,0 +1,12 @@
+{
+	"number": 0,
+	"time_min": 2000,
+	"time_max": 2900,
+	"slots_min": 0,
+	"slots_max": 4,
+	"SpawnPoints": "",
+	"BotSide": "Savage",
+	"BotPreset": "hard",
+	"WildSpawnType": "followerGluharSecurity",
+	"isPlayers": true
+}

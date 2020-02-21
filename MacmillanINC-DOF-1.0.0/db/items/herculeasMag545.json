@@ -10,14 +10,14 @@
 		"Weight": 0.5,
 		"BackgroundColor": "red",
 		"Width": 1,
-		"Height": 1,
+		"Height": 3,
 		"StackMaxSize": 1,
 		"Rarity": "Not_exist",
 		"SpawnChance": 14,
 		"CreditsPrice": 100000,
 		"ItemSound": "magazine_metal",
 		"Prefab": {
-			"path": "assets/content/items/mods/magazines/mag_ak74_izhmash_saiga_545_std_545x39_10.bundle",
+			"path": "assets/content/items/mods/magazines/mag_ak74_izhmash_6l26_545x39_45.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
@@ -109,8 +109,8 @@
 		"CanFast": true,
 		"CanHit": false,
 		"CanAdmin": false,
-		"LoadUnloadModifier": -100,
-		"CheckTimeModifier": -100,
+		"LoadUnloadModifier": -30,
+		"CheckTimeModifier": -30,
 		"CheckOverride": 0,
 		"ReloadMagType": "ExternalMagazine",
 		"VisibleAmmoRangesString": "1-3"

@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47receiver",
+	"_tpl": "mhiFIR47receiver",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

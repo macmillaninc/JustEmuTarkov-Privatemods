@@ -89,6 +89,8 @@
 		"SearchSound": "looting_body_extended",
 		"BlocksArmorVest": false,
 		"speedPenaltyPercent": 0,
-		"GridLayoutName": ""
+		"GridLayoutName": "",
+		"TagColor": 0,
+		"TagName": ""
 	}
 }

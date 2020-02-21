@@ -10,14 +10,14 @@
 		"Weight": 0.5,
 		"BackgroundColor": "red",
 		"Width": 1,
-		"Height": 1,
+		"Height": 3,
 		"StackMaxSize": 1,
 		"Rarity": "Not_exist",
 		"SpawnChance": 1,
 		"CreditsPrice": 100000,
 		"ItemSound": "magazine_metal",
 		"Prefab": {
-			"path": "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_10_blk.bundle",
+			"path": "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_40.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
@@ -106,8 +106,8 @@
 		"CanFast": true,
 		"CanHit": true,
 		"CanAdmin": false,
-		"LoadUnloadModifier": -100,
-		"CheckTimeModifier": -100,
+		"LoadUnloadModifier": -30,
+		"CheckTimeModifier": -30,
 		"CheckOverride": 0,
 		"ReloadMagType": "ExternalMagazine",
 		"VisibleAmmoRangesString": "1-3"
