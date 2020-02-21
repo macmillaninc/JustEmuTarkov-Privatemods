@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_mag_stanag",
+	"_tpl": "mhiFIR47_mag_stanag",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

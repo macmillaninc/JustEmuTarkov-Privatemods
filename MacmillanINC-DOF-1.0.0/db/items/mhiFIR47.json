@@ -107,11 +107,20 @@
 						{
 							"AnimationIndex": -1,
 							"Filter": [
-								"mhiFIR47_mag_stanag",
 								"mhiFIR47_mag_genm3",
-								"mhiFIR47_mag_HKstanag",
+								"mhiFIR47_mag_genm3_40",
+								"mhiFIR47_mag_genm3_40fde",
 								"mhiFIR47_mag_hkpmag",
-								"herc556"
+								"mhiFIR47_mag_HKstanag",
+								"mhiFIR47_mag_magpul_m3",
+								"mhiFIR47_mag_magpul_m3fde",
+								"mhiFIR47_mag_magpul_m3w",
+								"mhiFIR47_mag_magpul_m3wfde",
+								"mhiFIR47_mag_magpul_pmag60d",
+								"mhiFIR47_mag_stanag",
+								"mhiFIR47_mag_surefire_60",
+								"mhiFIR47_mag_surefire_100",
+								"mhiFIR47_mag_troy_30"
 							]
 						}
 					]
@@ -203,9 +212,9 @@
 		"durabSpawnMax": 75,
 		"isFastReload": true,
 		"RecoilForceUp": 200,
-		"RecoilForceBack": 400,
+		"RecoilForceBack": 450,
 		"Convergence": 1.5,
-		"RecoilAngle": 75,
+		"RecoilAngle": 65,
 		"weapFireType": [
 			"single",
 			"burst",
@@ -214,9 +223,9 @@
 		"RecolDispersion": 25,
 		"bFirerate": 660,
 		"Ergonomics": 55,
-		"Velocity": 2,
+		"Velocity": 4,
 		"bEffDist": 500,
-		"bHearDist": 80,
+		"bHearDist": 120,
 		"isChamberLoad": true,
 		"chamberAmmoCount": 1,
 		"isBoltCatch": true,
@@ -232,20 +241,12 @@
 					"filters": [
 						{
 							"Filter": [
-								"59e6920f86f77411d82aa167",
-								"59e6927d86f77411da468256",
-								"54527a984bdc2d4e668b4567",
-								"54527ac44bdc2d36668b4567",
-								"59e68f6f86f7746c9f75e846",
-								"59e6906286f7746c9f75e847",
-								"59e690b686f7746c9f75e848",
-								"59e6918f86f7746c9f75e849",
-								"5c0d5ae286f7741e46554302",
 								"59e0d99486f7744a32234762",
 								"59e4d3d286f774176a36250a",
 								"5656d7c34bdc2d9d198b4587",
 								"59e4cf5286f7741778269d8a",
-								"59e4d24686f7741776641ac7"
+								"59e4d24686f7741776641ac7",
+								"mhiFIR47_ammo_mk777apie"
 							]
 						}
 					]
@@ -259,7 +260,7 @@
 		"CameraSnap": 3.5,
 		"ReloadMode": "ExternalMagazine",
 		"CenterOfImpact": 0.04,
-		"AimPlane": 0.16,
+		"AimPlane": 0.20,
 		"DeviationCurve": 1,
 		"DeviationMax": 100,
 		"Foldable": false,

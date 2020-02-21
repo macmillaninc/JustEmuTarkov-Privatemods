@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_mag_magpul_pmag60d",
+	"_tpl": "mhiFIR47_mag_magpul_pmag60d",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

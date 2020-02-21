@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_barrel_370mm",
+	"_tpl": "mhiFIR47_barrel_370mm",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

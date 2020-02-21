@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_mag_genm3",
+	"_tpl": "mhiFIR47_mag_genm3",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

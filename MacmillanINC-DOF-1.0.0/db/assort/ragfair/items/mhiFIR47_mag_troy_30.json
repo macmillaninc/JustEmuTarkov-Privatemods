@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_mag_troy_30",
+	"_tpl": "mhiFIR47_mag_troy_30",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

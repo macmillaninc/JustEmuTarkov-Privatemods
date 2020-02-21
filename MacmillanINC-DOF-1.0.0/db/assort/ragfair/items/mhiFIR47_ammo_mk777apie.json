@@ -1,0 +1,10 @@
+{
+	"_id": "mhiFIR47_ammo_mk777apie",
+	"_tpl": "mhiFIR47_ammo_mk777apie",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}
