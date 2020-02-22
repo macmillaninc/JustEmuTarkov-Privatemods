@@ -17,7 +17,7 @@
 		"CreditsPrice": 21800,
 		"ItemSound": "weap_ar",
 		"Prefab": {
-			"path": "assets/content/weapons/hk416/weapon_hk_416a5_556x45_container.bundle",
+			"path": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
@@ -62,7 +62,7 @@
 		"Slots": [
 			{
 				"_name": "mod_pistol_grip",
-				"_id": "5bb2475ed4351e00853264e5",
+				"_id": "55d354084bdc2d8c2f8b4568",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -100,7 +100,7 @@
 			},
 			{
 				"_name": "mod_magazine",
-				"_id": "5bb2475ed4351e00853264e6",
+				"_id": "55d3555c4bdc2d962f8b4568",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -131,7 +131,7 @@
 			},
 			{
 				"_name": "mod_reciever",
-				"_id": "5bb2475ed4351e00853264e7",
+				"_id": "55d5a2ec4bdc2d972f8b4575",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -149,7 +149,7 @@
 			},
 			{
 				"_name": "mod_stock",
-				"_id": "5bb2475ed4351e00853264e8",
+				"_id": "55d5a3074bdc2d61338b4574",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -178,7 +178,7 @@
 			},
 			{
 				"_name": "mod_charge",
-				"_id": "5bb2475ed4351e00853264e9",
+				"_id": "55d5a30f4bdc2d882f8b4574",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -235,7 +235,7 @@
 		"Chambers": [
 			{
 				"_name": "patron_in_weapon",
-				"_id": "5bb2475ed4351e00853264ea",
+				"_id": "56eaa85ad2720b69698b456c",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -300,6 +300,5 @@
 		"HipAccuracyRestorationSpeed": 7,
 		"HipInnaccuracyGain": 0.16,
 		"ManualBoltCatch": false
-	},
-	"_proto": "5447a9cd4bdc2dbd208b4567"
+	}
 }
