@@ -113,13 +113,13 @@
 				"duration": 0
 			},
 			"energy": {
-				"value": -20,
+				"value": -10,
 				"percent": false,
 				"time": 0,
 				"duration": 0
 			},
 			"hydration": {
-				"value": -20,
+				"value": -10,
 				"percent": false,
 				"time": 0,
 				"duration": 0
@@ -134,21 +134,21 @@
 				"cost": 1
 			},
 			"fracture": {
-				"remove": true,
+				"remove": false,
 				"time": 0,
 				"duration": 0,
 				"fadeOut": 0.5,
 				"cost": 1
 			},
 			"pain": {
-				"remove": true,
+				"remove": false,
 				"time": 0,
-				"duration": 300,
-				"fadeOut": 0.5,
+				"duration": 0,
+				"fadeOut": 0,
 				"cost": 1
 			},
 			"contusion": {
-				"remove": true,
+				"remove": false,
 				"time": 0,
 				"duration": 0,
 				"fadeOut": 0,
