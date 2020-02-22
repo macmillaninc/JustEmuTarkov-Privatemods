@@ -62,7 +62,7 @@
 		"Slots": [
 			{
 				"_name": "mod_scope",
-				"_id": "55d357484bdc2d882f8b456a",
+				"_id": "5bb20d53d4351e4502010a6b",
 				"_parent": "mhiFIR47receiver",
 				"_props": {
 					"filters": [
@@ -123,7 +123,7 @@
 			},
 			{
 				"_name": "mod_barrel",
-				"_id": "55d35d0c4bdc2d892f8b456c",
+				"_id": "5bb20d53d4351e4502010a6c",
 				"_parent": "mhiFIR47receiver",
 				"_props": {
 					"filters": [
@@ -145,7 +145,7 @@
 			},
 			{
 				"_name": "mod_handguard",
-				"_id": "55d35d754bdc2d882f8b456b",
+				"_id": "5bb20d53d4351e4502010a6d",
 				"_parent": "mhiFIR47receiver",
 				"_props": {
 					"filters": [
@@ -191,7 +191,7 @@
 			},
 			{
 				"_name": "mod_sight_rear",
-				"_id": "55d35e074bdc2d882f8b456c",
+				"_id": "5bb20d53d4351e4502010a6e",
 				"_parent": "mhiFIR47receiver",
 				"_props": {
 					"filters": [
@@ -232,5 +232,6 @@
 		"IsAnimated": false,
 		"HasShoulderContact": false,
 		"SightingRange": 0
-	}
+	},
+	"_proto": "55d355e64bdc2d962f8b4569"
 }
