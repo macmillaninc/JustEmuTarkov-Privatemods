@@ -7,14 +7,14 @@
 		"Name": "Firewill 47",
 		"ShortName": "Firewill 7.62x39",
 		"Description": "Firewill Rifle(FIR) 47 is Special Purpose Rifle for Airborne troops. Made in Korea.",
-		"Weight": 0.38,
+		"Weight": 0.52,
 		"BackgroundColor": "black",
 		"Width": 1,
 		"Height": 1,
 		"StackMaxSize": 1,
-		"Rarity": "Rare",
-		"SpawnChance": 10,
-		"CreditsPrice": 18397,
+		"Rarity": "Superrare",
+		"SpawnChance": 4,
+		"CreditsPrice": 21800,
 		"ItemSound": "weap_ar",
 		"Prefab": {
 			"path": "assets/content/weapons/hk416/weapon_hk_416a5_556x45_container.bundle",
@@ -37,7 +37,7 @@
 		"LootExperience": 30,
 		"ExamineExperience": 8,
 		"HideEntrails": false,
-		"RepairCost": 1000,
+		"RepairCost": 1100,
 		"RepairSpeed": 15,
 		"ExtraSizeLeft": 0,
 		"ExtraSizeRight": 0,
@@ -62,7 +62,7 @@
 		"Slots": [
 			{
 				"_name": "mod_pistol_grip",
-				"_id": "55d354084bdc2d8c2f8b4568",
+				"_id": "5bb2475ed4351e00853264e5",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -100,7 +100,7 @@
 			},
 			{
 				"_name": "mod_magazine",
-				"_id": "55d3555c4bdc2d962f8b4568",
+				"_id": "5bb2475ed4351e00853264e6",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -131,7 +131,7 @@
 			},
 			{
 				"_name": "mod_reciever",
-				"_id": "55d5a2ec4bdc2d972f8b4575",
+				"_id": "5bb2475ed4351e00853264e7",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
@@ -149,25 +149,25 @@
 			},
 			{
 				"_name": "mod_stock",
-				"_id": "55d5a3074bdc2d61338b4574",
+				"_id": "5bb2475ed4351e00853264e8",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"5a33ca0fc4a282000d72292f",
-								"5c0faeddd174af02a962601f",
-								"5649be884bdc2d79388b4577",
-								"5d120a10d7ad1a4e1026ba85",
-								"5b0800175acfc400153aebd4",
-								"5947e98b86f774778f1448bc",
-								"5947eab886f77475961d96c5",
-								"5c793fb92e221644f31bfb64",
-								"5c793fc42e221600114ca25d",
-								"591aef7986f774139d495f03",
-								"591af10186f774139d495f0e",
-								"5bb20e58d4351e00320205d7"
+							"5a33ca0fc4a282000d72292f",
+							"5c0faeddd174af02a962601f",
+							"5649be884bdc2d79388b4577",
+							"5d120a10d7ad1a4e1026ba85",
+							"5b0800175acfc400153aebd4",
+							"5947e98b86f774778f1448bc",
+							"5947eab886f77475961d96c5",
+							"5c793fb92e221644f31bfb64",
+							"5c793fc42e221600114ca25d",
+							"591aef7986f774139d495f03",
+							"591af10186f774139d495f0e",
+							"5bb20e58d4351e00320205d7"
 							]
 						}
 					]
@@ -178,14 +178,13 @@
 			},
 			{
 				"_name": "mod_charge",
-				"_id": "55d5a30f4bdc2d882f8b4574",
+				"_id": "5bb2475ed4351e00853264e9",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"5c0faf68d174af02a96260b8",
 								"56ea7165d2720b6e518b4583",
 								"55d44fd14bdc2d962f8b456e",
 								"5bb20dbcd4351e44f824c04e",
@@ -215,7 +214,7 @@
 		"RecoilForceUp": 200,
 		"RecoilForceBack": 450,
 		"Convergence": 1.5,
-		"RecoilAngle": 85,
+		"RecoilAngle": 90,
 		"weapFireType": [
 			"single",
 			"burst",
@@ -230,24 +229,24 @@
 		"isChamberLoad": true,
 		"chamberAmmoCount": 1,
 		"isBoltCatch": true,
-		"defMagType": "59d625f086f774661516605d",
+		"defMagType": "mhiFIR47_mag_stanag",
 		"defAmmo": "5656d7c34bdc2d9d198b4587",
 		"shotgunDispersion": 0,
 		"Chambers": [
 			{
 				"_name": "patron_in_weapon",
-				"_id": "56eaa85ad2720b69698b456c",
+				"_id": "5bb2475ed4351e00853264ea",
 				"_parent": "mhiFIR47",
 				"_props": {
 					"filters": [
 						{
 							"Filter": [
-								"59e0d99486f7744a32234762",
-								"59e4d3d286f774176a36250a",
-								"5656d7c34bdc2d9d198b4587",
-								"59e4cf5286f7741778269d8a",
-								"59e4d24686f7741776641ac7",
-								"mhiFIR47_ammo_mk777apie"
+							"59e0d99486f7744a32234762",
+							"59e4d3d286f774176a36250a",
+							"5656d7c34bdc2d9d198b4587",
+							"59e4cf5286f7741778269d8a",
+							"59e4d24686f7741776641ac7",
+							"mhiFIR47_ammo_mk777apie"
 							]
 						}
 					]
@@ -260,8 +259,8 @@
 		"CameraRecoil": 0.2,
 		"CameraSnap": 3.5,
 		"ReloadMode": "ExternalMagazine",
-		"CenterOfImpact": 0.04,
-		"AimPlane": 0.20,
+		"CenterOfImpact": 0.01,
+		"AimPlane": 0.16,
 		"DeviationCurve": 1,
 		"DeviationMax": 100,
 		"Foldable": false,
@@ -301,5 +300,6 @@
 		"HipAccuracyRestorationSpeed": 7,
 		"HipInnaccuracyGain": 0.16,
 		"ManualBoltCatch": false
-	}
+	},
+	"_proto": "5447a9cd4bdc2dbd208b4567"
 }
