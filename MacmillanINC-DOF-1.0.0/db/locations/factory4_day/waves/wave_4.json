@@ -8,5 +8,5 @@
 	"BotSide": "Savage",
 	"BotPreset": "hard",
 	"WildSpawnType": "pmcBot",
-	"isPlayers": false
+	"isPlayers": true
 }
