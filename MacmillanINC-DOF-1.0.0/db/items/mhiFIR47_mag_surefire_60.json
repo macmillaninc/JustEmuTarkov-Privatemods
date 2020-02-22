@@ -4,9 +4,9 @@
 	"_parent": "5448bc234bdc2d3c308b4569",
 	"_type": "Item",
 	"_props": {
-		"Name": "Магазин MAG5-60 5.56x45 STANAG на 60 патронов",
-		"ShortName": "5.56x45 MAG5-60",
-		"Description": "60-ти зарядный металлический магазин Surefire MAG5-60 повышенной емкости, под патрон 5.56х45.\n",
+		"Name": "100-round MAG5-100 7.62x39 STANAG magazine",
+		"ShortName": "MAG5-100",
+		"Description": "100-round metal Surefire MAG5-100 high capacity magazine for 7.62x39 ammo.",
 		"Weight": 0.18,
 		"BackgroundColor": "yellow",
 		"Width": 1,
@@ -82,7 +82,7 @@
 				"_name": "cartridges",
 				"_id": "57487b4d2459771f643ff538",
 				"_parent": "mhiFIR47_mag_surefire_60",
-				"_max_count": 60,
+				"_max_count": 100,
 				"_props": {
 					"filters": [
 						{

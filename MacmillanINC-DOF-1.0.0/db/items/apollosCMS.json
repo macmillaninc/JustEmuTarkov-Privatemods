@@ -14,7 +14,7 @@
 		"StackMaxSize": 1,
 		"Rarity": "Not_exist",
 		"SpawnChance": 4,
-		"CreditsPrice": 500000,
+		"CreditsPrice": 150000,
 		"ItemSound": "med_medkit",
 		"Prefab": {
 			"path": "assets/content/weapons/usable_items/item_syringe/item_stimulator_zagustin_loot.bundle",

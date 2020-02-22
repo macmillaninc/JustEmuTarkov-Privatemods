@@ -17,7 +17,7 @@
 		"CreditsPrice": 5198,
 		"ItemSound": "mod",
 		"Prefab": {
-			"path": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+			"path": "assets/content/items/mods/recievers/5bb20d53d4351e4502010a69.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
@@ -172,7 +172,15 @@
 								"5d00e0cbd7ad1a6c6566a42d",
 								"5d00f63bd7ad1a59283b1c1e",
 								"595cfa8b86f77427437e845b",
-								"595cf16b86f77427440c32e2"
+								"595cf16b86f77427440c32e2",
+								"5c6d10e82e221601da357b07",
+								"5bb20de5d4351e0035629e59",
+								"5bb20dfcd4351e00334c9e24",
+								"5bb20df1d4351e00347787d5",
+								"5c6d11072e2216000e69d2e4",
+								"5c6d10fa2e221600106f3f23",
+								"5c6d11152e2216000f2003e7",
+								"5c6c2c9c2e2216000f2002e4"
 							]
 						}
 					]

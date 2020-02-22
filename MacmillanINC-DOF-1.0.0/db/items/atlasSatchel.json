@@ -14,7 +14,7 @@
 		"StackMaxSize": 1,
 		"Rarity": "Not_exist",
 		"SpawnChance": 4,
-		"CreditsPrice": 1000000,
+		"CreditsPrice": 2500000,
 		"ItemSound": "gear_backpack",
 		"Prefab": {
 			"path": "assets/content/items/equipment/backpack_baselard/item_equipment_backpack_baselard.bundle",

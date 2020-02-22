@@ -4,9 +4,9 @@
 	"_parent": "5448bc234bdc2d3c308b4569",
 	"_type": "Item",
 	"_props": {
-		"Name": "mag_stanag_surefire_mag5_556x45_100",
-		"ShortName": "mag_stanag_surefire_mag5_556x45_100",
-		"Description": "mag_stanag_surefire_mag5_556x45_100",
+		"Name": "200-round MAG5-200 7.62x39 STANAG magazine",
+		"ShortName": "MAG5-200",
+		"Description": "200-round metal Surefire MAG5-200 high capacity magazine for 7.62x39 ammo.",
 		"Weight": 0.27,
 		"BackgroundColor": "yellow",
 		"Width": 1,
@@ -82,7 +82,7 @@
 				"_name": "cartridges",
 				"_id": "5c6592372e221600133e47d9",
 				"_parent": "mhiFIR47_mag_surefire_100",
-				"_max_count": 100,
+				"_max_count": 200,
 				"_props": {
 					"filters": [
 						{

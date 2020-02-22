@@ -14,7 +14,7 @@
 		"StackMaxSize": 1,
 		"Rarity": "Not_exist",
 		"SpawnChance": 4,
-		"CreditsPrice": 500000,
+		"CreditsPrice": 150000,
 		"ItemSound": "med_stimulator",
 		"Prefab": {
 			"path": "assets/content/weapons/usable_items/item_syringe/item_stimulator_propital_loot.bundle",
@@ -113,13 +113,13 @@
 				"duration": 0
 			},
 			"energy": {
-				"value": 150,
+				"value": -20,
 				"percent": false,
 				"time": 0,
 				"duration": 0
 			},
 			"hydration": {
-				"value": 150,
+				"value": -20,
 				"percent": false,
 				"time": 0,
 				"duration": 0
