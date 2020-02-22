@@ -80,7 +80,7 @@
 		"casingSounds": "rifle762",
 		"ProjectileCount": 1,
 		"InitialSpeed": 1029,
-		"PenetrationChance": 0.9,
+		"PenetrationChance": 0.8,
 		"RicochetChance": 0.315,
 		"FragmentationChance": 0.12,
 		"BallisticCoeficient": 1,
@@ -101,7 +101,7 @@
 		"FragmentsCount": 0,
 		"FragmentType": "5996f6d686f77467977ba6cc",
 		"ShowHitEffectOnExplode": true,
-		"ExplosionType": "big_round_impact",
+		"ExplosionType": "big_round_impact_explosive",
 		"AmmoLifeTimeSec": 5
 	},
 	"_proto": "56dff338d2720bbd668b4569"
