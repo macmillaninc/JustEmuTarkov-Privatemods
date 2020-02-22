@@ -17,7 +17,7 @@
 		"CreditsPrice": 5198,
 		"ItemSound": "mod",
 		"Prefab": {
-			"path": "assets/content/items/mods/recievers/5bb20d53d4351e4502010a69.bundle",
+			"path": "assets/content/items/mods/recievers/reciever_ar15_hk_hk416a5_std.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
